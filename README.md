@@ -1,5 +1,7 @@
 # el-fuzzy-select
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zh-rocco/el-select-plus.svg)](https://greenkeeper.io/)
+
 > A fuzzy search component based on element-ui and fuse.js
 
 ## Demo
